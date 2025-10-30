@@ -11,7 +11,7 @@ Zerovent
 
 ## Team
 - Team Name: HereZero
-- GitHub Handles: mahdieh-amiri1, hoka
+- GitHub Handles: mahdieh-amiri1, hossi1363
 - Devfolio Handles: mahdieh, hoka
 
 ## Project Description
