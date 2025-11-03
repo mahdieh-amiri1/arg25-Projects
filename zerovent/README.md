@@ -11,8 +11,8 @@ Zerovent
 
 ## Team
 - Team Name: HereZero
-- GitHub Handles: mahdieh-amiri1, hossi1363
-- Devfolio Handles: mahdieh, hoka
+- GitHub Handles: mahdieh-amiri1, hossi1363, 22lolo
+- Devfolio Handles: mahdieh, hoka, Smilehi
 
 ## Project Description
 **Zerovent** is a privacy-preserving event and networking platform built for hackathons and conferences.  
