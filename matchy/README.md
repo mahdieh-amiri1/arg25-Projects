@@ -10,7 +10,6 @@ Matchy
 - GitHub Handles: mahdieh-amiri1, hossi1363, 22lolo
 - Devfolio Handles: mahdieh, hoka, Smilehi
 
-
 ## Project Description
 **Matchy** is a location-based AI networking platform that helps people discover and connect with others nearby who share similar interests, goals, or needs.  
 It’s designed for **events, co-working spaces, universities, or any social environment** where participants want to find more relevant people to meet.
@@ -28,14 +27,12 @@ If both accept, a chat channel opens so they can coordinate and meet in person.
 - Introduce **gamification and badges** to reward engagement and participation.  
 - Evolve into a **fun, secure, and privacy-first networking experience** powered by verifiable AI and decentralized identity.
 
-
 ## Objectives
 1. Build a functional MVP for location-based AI matchmaking.
 2. Enable wallet connection and basic user profile creation.
 3. Implement AI-based matching suggestions for nearby users.
 4. Integrate notifications for match proposals and confirmations.
 5. Prepare documentation and a short demo for the final ARG25 showcase.
-
 
 ## Weekly Progress
 
@@ -56,7 +53,6 @@ If both accept, a chat channel opens so they can coordinate and meet in person.
 - Discussed AI matchmaking approach (embedding similarity + local suggestions).  
 - Decided to keep architecture modular to allow optional Arbitrum Stylus / ZK integrations later.  
 
-
 ### Week 2 (ends Nov 7)
 **Goals:**  
 - Build core profile creation and editing flow.
@@ -68,8 +64,7 @@ If both accept, a chat channel opens so they can coordinate and meet in person.
 **Progress Summary:**  
 _(to be updated at the end of Week 2)_  
 
-
-### 🗓️ Week 3 (ends Nov 14)
+### Week 3 (ends Nov 14)
 **Goals:**  
 - Polish UX/UI and deploy public demo.  
 - Add chat feature for mutually accepted matches.  
