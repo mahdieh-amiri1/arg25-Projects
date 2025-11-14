@@ -7,8 +7,8 @@ Matchy
 
 ## Team
 - Team Name: Matchers
-- GitHub Handles: mahdieh-amiri1, hossi1363, 22lolo, jboni7
-- Devfolio Handles: mahdieh, hoka, Smilehi, jboni7
+- GitHub Handles: mahdieh-amiri1, hossi1363, 22lolo, jboni7, FaezehShakouri
+- Devfolio Handles: mahdieh, hoka, Smilehi, jboni7, thefazi
 
 ## Project Description
 
