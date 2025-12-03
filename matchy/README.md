@@ -39,6 +39,17 @@ It’s designed for **events, co-working spaces, universities, or any social env
    Users can **“Add to Match Pot”** (shortlist) or ignore suggestions.  
    When both users shortlist each other, they can open a chat and coordinate a meeting.
 
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+Visit http://localhost:3000
+
+
 ## Tech Stack
 
 - **Next.js 16**
