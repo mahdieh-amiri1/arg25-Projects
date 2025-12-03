@@ -7,8 +7,8 @@ Matchy
 
 ## Team
 - Team Name: Matchers
-- GitHub Handles: mahdieh-amiri1, hossi1363, 22lolo, jboni7, FaezehShakouri
-- Devfolio Handles: mahdieh, hoka, Smilehi, jboni7, thefazi
+- GitHub Handles: mahdieh-amiri1, hossi1363, 22lolo, FaezehShakouri
+- Devfolio Handles: mahdieh, hoka, Smilehi, thefazi
 
 ## Project Description
 
@@ -39,25 +39,39 @@ It’s designed for **events, co-working spaces, universities, or any social env
    Users can **“Add to Match Pot”** (shortlist) or ignore suggestions.  
    When both users shortlist each other, they can open a chat and coordinate a meeting.
 
----
 
-### Future Roadmap
-- Integrate robust **Zero-Knowledge proof tooling** for verifiable location claims.  
-- Add **gamified badges** and **onchain proof-of-meet interactions** to encourage participation.  
-- Explore optional integrations with **event platforms (e.g., Luma)** or **social graphs (e.g., Farcaster)** for discovery and identity context.  
-- Deliver a **fun, secure, and privacy-first networking experience** powered by verifiable AI and decentralized identity.
+## Getting Started
 
----
+**Option A: To run the project locally:**
+
+```bash
+npm install
+npm run dev
+```
+Then open your browser and visit:
+[http://localhost:3000](http://localhost:3000)
+
+
+**Option B: Alternatively, you can try the live demo:**
+[https://matchy-two.vercel.app/](https://matchy-two.vercel.app/)
+
+
+**Option C: For Farcaster preview mode:**
+
+1. Log in to your Farcaster account.
+2. Go to **Settings → Advanced Settings → Developer Mode**.
+3. Open the **Preview** section and paste the demo URL.
+
+
+
 
 ## Tech Stack
-- **Frontend:** React, Next.js, Tailwind CSS, HTML, JavaScript  
-- **Smart Contracts / Onchain Logic:** Solidity (optional module, future badges & proof-of-meet)  
-- **AI Layer:** Embedding-based matchmaker using vector similarity  
-- **Social Integration:** Farcaster miniapp (prototype), X (Twitter) & Lens (planned)  
-- **Privacy Layer (in progress):** Exploring ZK tools for location verification  
-- **Hosting / Infra:** Vercel (frontend), optional backend on Railway/Fly.io  
 
----
+- **Next.js 16**
+- **TypeScript**
+- **Tailwind CSS**
+- **Farcaster Mini App SDK**
+
 
 ## Objectives
 
@@ -137,6 +151,13 @@ Key takeaways include:
 - Explored **Zero-Knowledge Proof (ZKP)** tools for privacy-focused location verification.  
 - Strengthened collaboration and rapid prototyping skills using **Next.js**, **Tailwind**, and **Solidity** under tight deadlines.  
 - Understood how to iterate from idea → prototype → demo with clear user journeys.  
+
+
+### Future Roadmap
+- Integrate robust **Zero-Knowledge proof tooling** for verifiable location claims.  
+- Add **gamified badges** and **onchain proof-of-meet interactions** to encourage participation.  
+- Explore optional integrations with **event platforms (e.g., Luma)** or **social graphs (e.g., Farcaster)** for discovery and identity context.  
+- Deliver a **fun, secure, and privacy-first networking experience** powered by verifiable AI and decentralized identity.
 
 
 ## Next Steps
