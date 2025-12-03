@@ -42,12 +42,27 @@ It’s designed for **events, co-working spaces, universities, or any social env
 
 ## Getting Started
 
+**Option A: To run the project locally:**
+
 ```bash
 npm install
 npm run dev
 ```
+Then open your browser and visit:
+[http://localhost:3000](http://localhost:3000)
 
-Visit http://localhost:3000
+
+**Option B: Alternatively, you can try the live demo:**
+[https://matchy-two.vercel.app/](https://matchy-two.vercel.app/)
+
+
+**Option C: For Farcaster preview mode:**
+
+1. Log in to your Farcaster account.
+2. Go to **Settings → Advanced Settings → Developer Mode**.
+3. Open the **Preview** section and paste the demo URL.
+
+
 
 
 ## Tech Stack
