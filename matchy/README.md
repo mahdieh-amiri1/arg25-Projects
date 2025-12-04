@@ -138,7 +138,7 @@ Then open your browser and visit:
 
 
 ## Final Wrap-Up
-- **Main Repository Link:** [https://github.com/mahdieh-amiri1/arg25-Projects/tree/matchers-matchy/matchy](https://github.com/mahdieh-amiri1/arg25-Projects/tree/matchers-matchy/matchy)  
+- **Main Repository Link:** [https://github.com/mahdieh-amiri1/matchy.git](https://github.com/mahdieh-amiri1/matchy.git)  
 - **Demo / Deployment Link:** [https://matchy-two.vercel.app/](https://matchy-two.vercel.app/)  
 - **Slides / Presentation:** [https://miro.com/app/board/uXjVJuS-0Q0=/?share_link_id=354271186401](https://miro.com/app/board/uXjVJuS-0Q0=/?share_link_id=354271186401)  
 
